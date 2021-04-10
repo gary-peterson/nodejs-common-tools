@@ -20,7 +20,6 @@ prn({width: 10}):
 const CommonTools = require('./@garypeterson/common-tools').CommonTools;
 CommonTools.prn({width: 10}):
 
-
 ```
 
 
