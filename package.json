@@ -1,0 +1,28 @@
+{
+	"name": "@garypeterson/common-tools",
+	"version": "1.0.0",
+	"description": "common coding tools",
+	"keywords": [
+		"common",
+		"console",
+		"print"
+	],
+	"homepage": "",
+	"bugs": {
+		"url": "",
+		"email": ""
+	},
+	"main": "index.js",
+	"module": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/gary-peterson/nodejs-common-tools.git"
+	},
+	"author": "gp",
+	"license": "ISC",
+	"private": false,
+	"devDependencies": {}
+}
